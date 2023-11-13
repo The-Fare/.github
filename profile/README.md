@@ -1,5 +1,3 @@
-# FARE Web Application GitHub README
-
 <p align="center">
     <br />
     <a href="https://github.com/fare-webapp"><img src="https://path-to-fare-logo.svg" width="150" alt=""/></a>
